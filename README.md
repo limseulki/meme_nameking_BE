@@ -5,7 +5,6 @@
 
 
 
-### 노션 주소 : https://www.notion.so/S-A-2820b886259b46b3a6a926467002a4f1
 
 ### 13조 구성원
 FrontEnd : 신민철, 김민정
@@ -110,5 +109,3 @@ BackEnd : 이태경, 임슬기, 김근보, 이세훈
 
 ![image](https://github.com/CaptainGombo/meme_nameking_BE/assets/125139072/85718091-3d4c-4879-a747-1f5649912789)
 
-### API 명세서
-https://www.notion.so/ff9b604287ea431a824e6ed67879a9fd?v=de927eef838f41ac96b5fbddceb034f2
